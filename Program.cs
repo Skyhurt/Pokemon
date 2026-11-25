@@ -16,6 +16,6 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        string[] pokemon = { "Pikachu", "Dracaufeu","Tortank","Florizarre","Ectoplasma","Ronflex" };
     }
 }

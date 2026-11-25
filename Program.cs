@@ -23,6 +23,6 @@ class Program
         {
             Console.WriteLine((i + " " + pokemon[i]));
         }
-        Console.WriteLine("Le nombre total de Pokémon est de " + pokemon.Length);
+        Console.WriteLine("Vous avez " + pokemon.Length + " Pokémon.");
     }
 }
